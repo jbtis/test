@@ -1,5 +1,2 @@
 hi my name is mariano
-
-
-yes
-yes
+and this is git hub
